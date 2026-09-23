@@ -2,8 +2,6 @@
 
 Devoloping a Job Search site since I have been on quite a few and have ideas for improvement. Updating deployed demo as  ideas for improvements come to me, open to suggestions for improvement.
 
-New Demo: [FULL STACK DEMO](http://44.197.151.146:3007/)
-
 I hope walking through this demo is a more accurate way to evaluate my skills than watching an edited screen cap.
 
 Split into separate pages 9/29/23 Also added a returning hunter/poster button to each demo that allows you to sign back in as the last hunter or poster you signed in as to that particular demo.
